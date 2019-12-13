@@ -8,6 +8,14 @@ Aptech Android App
              3.backend Firebase
              4.AndroidX
              
+             Dependencies Firebase
+             
+                 implementation 'com.google.firebase:firebase-auth:16.0.5'
+                 implementation 'com.google.firebase:firebase-database:16.0.4'
+                 implementation 'com.google.firebase:firebase-storage:16.0.4'
+                 
+                 please you shuold make sure there upto date
+                 
                                             Team members.
                                             
                                     1. head developer Chotabhai (MrBhai)
