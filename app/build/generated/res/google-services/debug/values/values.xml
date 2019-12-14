@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">328837247677-9efsjpgcjjebnbqf90n6nf16hnhbvtqg.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://aptechdatabase.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">328837247677</string>
+    <string name="google_api_key" translatable="false">AIzaSyDMyb3VlPY_VZmAm76Xc4DAoTI0NmCy35w</string>
+    <string name="google_app_id" translatable="false">1:328837247677:android:6acc74c1a46d0774cbfdd4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDMyb3VlPY_VZmAm76Xc4DAoTI0NmCy35w</string>
+    <string name="google_storage_bucket" translatable="false">aptechdatabase.appspot.com</string>
+    <string name="project_id" translatable="false">aptechdatabase</string>
+</resources>
