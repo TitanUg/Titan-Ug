@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328837247677",
+    "firebase_url": "https://aptechdatabase.firebaseio.com",
+    "project_id": "aptechdatabase",
+    "storage_bucket": "aptechdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328837247677:android:6acc74c1a46d0774cbfdd4",
+        "android_client_info": {
+          "package_name": "Aptech.apk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328837247677-71tu0shjsak9qm24ossuv4o9cd63tfig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Aptech.apk",
+            "certificate_hash": "46c939ef79dd1fc999ac0c39fbe444857ce178a3"
+          }
+        },
+        {
+          "client_id": "328837247677-9efsjpgcjjebnbqf90n6nf16hnhbvtqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMyb3VlPY_VZmAm76Xc4DAoTI0NmCy35w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328837247677-9efsjpgcjjebnbqf90n6nf16hnhbvtqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
